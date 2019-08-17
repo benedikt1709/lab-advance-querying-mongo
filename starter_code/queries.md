@@ -4,6 +4,8 @@
 
 ### 1. All the companies that it's name match 'Babelgum'. Retrieve only their `name` field.
 
+
+
 {
  filter: {
   name: 'Babelgum'
